@@ -56631,7 +56631,7 @@ A.q_.prototype={
 aj(){return new A.F1(B.n)}}
 A.F1.prototype={
 U(a){var s=null
-return new A.d7(B.eZ,A.a8x(A.a([B.DP,B.u7,new A.d7(B.yA,new A.q1(A.agN(s,s,new A.oG("assets/images/home_app_img.png",s,s)),466,506,B.vi,s),s)],t.E),16),s)}}
+return new A.d7(B.eZ,A.a8x(A.a([B.DP,B.u7,new A.d7(B.yA,new A.q1(A.agN(s,s,new A.oG("images/home_app_img.png",s,s)),466,506,B.vi,s),s)],t.E),16),s)}}
 A.qw.prototype={
 aj(){return new A.uI(A.a([B.z5,B.uU,B.v0],t.E),B.n)}}
 A.uI.prototype={

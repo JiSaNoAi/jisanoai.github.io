@@ -63652,14 +63652,14 @@ A.R_.prototype={
 $0(){var s=0,r=A.K(t.H)
 var $async$$0=A.L(function(a,b){if(a===1)return A.H(b,r)
 while(true)switch(s){case 0:s=5
-return A.U(A.a58(A.eu("https://jisanoai.com/assets/NOTICES",0,null)),$async$$0)
+return A.U(A.a58(A.eu("https://jisanoai.com/assets/NOTICES.html",0,null)),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.U(A.a5F(A.eu("https://jisanoai.com/assets/NOTICES",0,null)),$async$$0)
+return A.U(A.a5F(A.eu("https://jisanoai.com/assets/NOTICES.html",0,null)),$async$$0)
 case 6:s=3
 break
-case 4:throw A.e("Could not launch https://jisanoai.com/assets/NOTICES")
+case 4:throw A.e("Could not launch https://jisanoai.com/assets/NOTICES.html")
 case 3:return A.I(null,r)}})
 return A.J($async$$0,r)},
 $S:0}

@@ -4,11 +4,14 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "build-npm": "npm run build",
+    "export-npm": "npm run export",
     "deploy-npm": "npm run deploy",
-    "deploy": "gh-pages -d out"
+    "deploy": "gh-pages -d out -f",
+    "lint": "next lint",
+    "build": "next build",
+    "export": "next export"
   },
   "dependencies": {
     "next": "14.2.4",

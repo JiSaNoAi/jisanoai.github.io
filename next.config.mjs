@@ -5,6 +5,7 @@ const nextConfig = {
     unoptimized: true,
   },
   reactStrictMode: true,
+  assetPrefix: '.',
 };
 
 export default nextConfig;
